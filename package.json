@@ -14,5 +14,15 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "nodemailer": "*"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMTaha/Basic-Express-Website.git"
+  },
+  "author": "S. M. Taha",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SMTaha/Basic-Express-Website/issues"
+  },
+  "homepage": "https://github.com/SMTaha/Basic-Express-Website#readme"
 }
